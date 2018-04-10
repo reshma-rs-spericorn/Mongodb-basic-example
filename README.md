@@ -31,3 +31,6 @@ Development (Webpack dev server) mode:
 ```shell
 npm run start:dev
 ```
+#For starting mongo db
+sudo service mongod start
+
